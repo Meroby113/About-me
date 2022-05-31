@@ -1,7 +1,7 @@
 ### Hi there <span class="wave">👋</span>
 
 
-I'm Merve Çoban , who is a computer science and technology enthusiast. Now I am a student of Istanbul Aydın University. I opened this gidhup to share my codes while studying.Most of the projects that I've developed so far is listed on my GitHub profile as public. You can check them :)
+I'm Merve Çoban , who is a computer science and technology enthusiast. Now I am a student of Istanbul Aydın University. I opened this githup to share my codes while studying.Most of the projects that I've developed so far is listed on my GitHub profile as public. You can check them :)
 
 
 to contact me: <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>
