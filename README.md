@@ -5,7 +5,7 @@ I'm Merve Çoban , who is a computer science and technology enthusiast. Now I am
 
 
 to contact me: <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>
-<a href="mailto:mail@ugurdindar.com">mervecoban1973@gmail.com</a>
+<a href="mailto:mail@ugurdindar.com">meroby113@gmail.com</a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
